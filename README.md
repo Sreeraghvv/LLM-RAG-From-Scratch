@@ -91,7 +91,7 @@ The implementation is done using Jupyter Notebooks for clear step-by-step unders
 ##  How to Run
 
 1. Clone the repository:
-git clone https://github.com/yourusername/LLM-RAG-From-Scratch.git
+git clone (https://github.com/Sreeraghvv/LLM-RAG-From-Scratch)
 
 
 2. Install dependencies:
@@ -119,10 +119,4 @@ jupyter notebook
 
 Sreeragh V  
 B.Tech Computer Science | Data Science & LLM Enthusiast
- How to Push to GitHub
-git init
-git add .
-git commit -m "Initial commit - RAG pipeline implementation"
-git branch -M main
-git remote add origin https://github.com/yourusername/LLM-RAG-From-Scratch.git
-git push -u origin main
+
